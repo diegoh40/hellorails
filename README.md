@@ -5,7 +5,7 @@
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+ <!-- <h3><b>Microverse README Template</b></h3> -->
 
 </div>
 
@@ -69,10 +69,7 @@ Let's put this into practice by creating our very own Rails 'Hello World!' proje
 <summary>- Rubocop</summary>
 
 </details>
-<details>
-<summary>- Rubocop</summary>
 
-</details>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
